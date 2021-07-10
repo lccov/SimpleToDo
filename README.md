@@ -20,7 +20,10 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [ ] User can **add a description** to each task
+* [ ] User can **add a start and stop time** to each task
+* [ ] User can **filter and sort** through tasks
+* [ ] User can **edit and delete multiple tasks at once**
 
 ## Video Walkthrough
 
@@ -32,7 +35,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Getting Android Studio and the emulator to work were the biggest challenges. Other than that, I had no trouble creating the app.
 
 ## License
 
