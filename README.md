@@ -18,13 +18,6 @@ The following **optional** features are implemented:
 
 * [X] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list
 
-The following **additional** features are implemented:
-
-* [ ] User can **add a description** to each task
-* [ ] User can **add a start and stop time** to each task
-* [ ] User can **filter and sort** through tasks
-* [ ] User can **edit and delete multiple tasks at once**
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
